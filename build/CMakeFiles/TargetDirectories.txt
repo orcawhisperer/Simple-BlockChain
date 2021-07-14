@@ -1,0 +1,3 @@
+/home/vasanth/Downloads/Bk/test-chain/build/CMakeFiles/rebuild_cache.dir
+/home/vasanth/Downloads/Bk/test-chain/build/CMakeFiles/edit_cache.dir
+/home/vasanth/Downloads/Bk/test-chain/build/CMakeFiles/test_chain.dir
